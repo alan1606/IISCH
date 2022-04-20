@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146035678103",
+    "project_id": "web-encuestas-707c5",
+    "storage_bucket": "web-encuestas-707c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146035678103:android:d21e02ffb700163f5442d2",
+        "android_client_info": {
+          "package_name": "com.example.evaluaciones_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146035678103-o6773k1nkgpeff58nf4cs1g98tuogfrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk8UQuM6tBPl9vrPCH83cfxx6DDPZm4_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146035678103-o6773k1nkgpeff58nf4cs1g98tuogfrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
